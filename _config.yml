@@ -1,14 +1,14 @@
 title:              HiFiStreamer
 email:              
-description:        An Audiophile network streamer
+description:        An Audiophile network streamer built with Linux JeOS
 author:             Oren Sokoler
 baseurl:            "/"
 url:                "https://orenskl.github.io"
 
 # Social Profiles
-#twitter_username:   SBootstrap
-github_username:    StartBootstrap
-#facebook_username:  StartBootstrap
+#twitter_username:   
+github_username:    orenskl/HiFiStreamer
+#facebook_username:  
 #instagram_username:  
 #linkedin_username:
 
